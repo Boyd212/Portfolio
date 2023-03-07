@@ -37,5 +37,5 @@ Known Issues:
 2.  Images are not loading in "My Work" section
 3.  Background Image not loading properly in "<body>" (<section class="main-img>??)
 4.  Header styling is sloppy and needs revision
-  
+5.  CSS is not commented
   
