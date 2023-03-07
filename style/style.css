@@ -57,7 +57,7 @@ header nav ul li a :hover {
     border-radius: 10 px;
 }
 
-main-img {
+.main-img {
     background-image: url("/images/main-img.jpg");
     background-size: 300px 100px;
     background-position: center;
